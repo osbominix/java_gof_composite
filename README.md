@@ -4,6 +4,9 @@ design pattern "composite" in java
 Output:
 
     *
+    
    * *
+   
   *   *
+  
  *     *
