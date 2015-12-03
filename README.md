@@ -4,4 +4,4 @@ design pattern "composite" in java
 Output:
 
 a pyramid
-pyramide
+
